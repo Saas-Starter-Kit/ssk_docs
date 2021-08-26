@@ -11,11 +11,11 @@ module.exports = {
   projectName: "Saas-Starterkit",
   themeConfig: {
     navbar: {
-      title: "Saas Starter Kit Docs",
+      title: "Saas Starter Kit",
       logo: {
         alt: "My Site Logo",
         src: "img/logo.svg",
-        href: "/docs/intro",
+        href: "https://www.saasstarterkit.com",
       },
       items: [
         {

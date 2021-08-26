@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 Welcome to the Saas Starterkit Docs.
 
 Saas Startkit is a modern React and Nodejs SAAS boilerplate.
