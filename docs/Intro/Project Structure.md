@@ -6,15 +6,15 @@ sidebar_position: 2
 
 Screens and components for this project fall into 5 categories:
 
-<strong>App:</strong> Contains screens and components related to the actual admin application that is meant to be used by an end user.
+App: Contains screens and components related to the actual admin application that is meant to be used by an end user.
 
-<strong>Auth:</strong> Contains screens and components related to authentication.
+Auth: Contains screens and components related to authentication.
 
-<strong>User:</strong> Contains screens and components related to the end user, such as account settings.
+User: Contains screens and components related to the end user, such as account settings.
 
-<strong>Marketing:</strong> Contains screens and components of the public marketing pages.
+Marketing: Contains screens and components of the public marketing pages.
 
-<strong>Purchase:</strong> Contains screens and components related to making purchases.
+Purchase: Contains screens and components related to making purchases.
 
 ## Components organization
 
